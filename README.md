@@ -1,4 +1,4 @@
-### E-commerce website using Html, Css and JavaScript.
+### E-commerce website using Html5, Css3 and JavaScript , Tailwind Css.
 
 ![E-commerce website](https://github.com/codersgyan/E-commerce-website/blob/master/maxresdefault.jpg?raw=true)
 
